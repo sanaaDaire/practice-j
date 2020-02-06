@@ -1,3 +1,7 @@
+
+
+
+
 alert ("GOOD MORNING");
 confirm ("Are you Reader");
 prompt (" Whats your name ?");
